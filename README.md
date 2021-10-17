@@ -1,3 +1,24 @@
+# Search Engine using NextJs + Tailwind CSS:-
+Firezilla is a search engine that has been developed using Google search API. The app has been developed on NEXT JS, alongwith Tailwind CSS that has been used for styling. The app also features Pagination to check out the different search results that get displayed.
+
+
+# What i learnt in this project:-
+1) Using Google's search API .
+2) Better understanding of how to use environment variables and routing in Next JS.
+3) Better understanding of Talwind CSS(especially on how to create gradient backgrounds).
+
+
+I will later host this app later.
+
+# Screenshots of the app:-
+<p><b>Landing Page:-</b></p>
+<img src="./ss/fs_1.png" alt="pic1" />
+<p><b>Search Results Page-top:-</b></p>
+<img src="./ss/fs_2.png" alt="pic2" />
+<p><b>Search Results Page-Bottom:-</b></p>
+<img src="./ss/fs_3.png" alt="pic3" />
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
