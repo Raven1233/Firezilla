@@ -1,5 +1,5 @@
 import Head from "next/head"
-import { useRouter } from "next/router";
+import { useRouter } from 'next/router';
 import Footer from "../components/Footer";
 import Header from "../components/Header"
 import SearchResults from "../components/SearchResults";

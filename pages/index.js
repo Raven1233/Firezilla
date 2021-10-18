@@ -53,6 +53,7 @@ export default function Home() {
            src="https://raw.githubusercontent.com/Raven1233/Projectwork/main/logo.svg"
            width={500}
            height={300}
+           alt="image"
         />
         <div className="flex w-full hover:shadow-lg 
         focus-within:shadow-lg max-w-md rounded-full
