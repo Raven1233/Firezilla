@@ -4,7 +4,7 @@ import Footer from "../components/Footer";
 import Header from "../components/Header"
 import SearchResults from "../components/SearchResults";
 import Res from "../Res"
-function search({results}) {
+function Search({results}) {
 
     const router = useRouter();
 
@@ -24,7 +24,7 @@ function search({results}) {
     )
 }
 
-export default search
+export default Search
 
 export async function getServerSideProps(context) {
     const useDummyData = false;
