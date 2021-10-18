@@ -8,7 +8,7 @@ Firezilla is a search engine that has been developed using Google search API. Th
 3) Better understanding of Talwind CSS(especially on how to create gradient backgrounds).
 
 
-I will later host this app later.
+# Link to the website:- [Link](https://firezilla-subhadeep-das.vercel.app/).
 
 # Screenshots of the app:-
 <p><b>Landing Page:-</b></p>
